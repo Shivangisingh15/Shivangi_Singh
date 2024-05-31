@@ -1,6 +1,6 @@
 # Shivangi_Singh
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" width="400" height="200"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" width="400" height="400"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 
 <br/>
